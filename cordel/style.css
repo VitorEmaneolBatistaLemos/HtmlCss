@@ -41,13 +41,20 @@ header > p{
 
 
 section{
+
+    padding-top: 9vh;
+    padding-bottom: 9vh;
+    line-height: 2em;
     font-family: var(--fonte2);
     font-size: 3vw;
-    padding-top: 60px;
     padding-left: 45px;
 }
-section.normal{
+section > p{
     margin-bottom: 30px;
+} 
+section.normal{
+    color: #000000;
+    background-color: white;
 }
 
 section#img01{
