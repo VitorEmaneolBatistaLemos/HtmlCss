@@ -46,6 +46,10 @@ section{
     padding-top: 60px;
     padding-left: 45px;
 }
+section.normal{
+    margin-bottom: 30px;
+}
+
 section#img01{
     background-image: url(imagens/background001.jpg);
     background-position: left center;
